@@ -10,6 +10,7 @@
 - Android Phone - This should go without saying.
 - Mobile Data Plan - 3G is recommended over LTE for better power efficiency.
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) - Used for automation, notifications, and communications.
+- [AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) - Plugin for tasker used to simulate touches and other UI interaction
 - [Cerberus](https://www.cerberusapp.com/) - Tracking software! $5EUR/year
 - [coming soon](https://iptvgta.net) - This readme will be updated soon.
 
